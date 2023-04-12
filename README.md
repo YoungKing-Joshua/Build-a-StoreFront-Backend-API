@@ -96,9 +96,6 @@ SALT_ROUNDS=
 
 #For jwt tokens
 TOKEN_SECRET=
-
-#For unit testing
-JASMINE_TEST_PASSWORD=
 ```
 <br/>
 
