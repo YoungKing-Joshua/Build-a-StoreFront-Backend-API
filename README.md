@@ -1,4 +1,4 @@
-# Storefront Backend Project
+# Storefront's Backend API Project
 
 ## Getting Started
 
